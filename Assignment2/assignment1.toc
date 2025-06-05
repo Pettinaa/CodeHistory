@@ -1,0 +1,33 @@
+\contentsline {section}{\numberline {1}Problem Identification and Research}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Problem Statement}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Background Analysis}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}IoT-Cloud Justification}{2}{subsection.1.3}%
+\contentsline {section}{\numberline {2}System Design}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Architecture Overview}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Component Selection}{3}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Prototype Implementation}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Cloud Backend Architecture}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Data Ingestion}{4}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}MQTT Protocol}{4}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}IoT Rule Configuration}{5}{subsubsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.3}Data Processing}{5}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Security Implementation}{7}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1} Device Authentication and Communication Security}{7}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2} Cloud-Side Access Control}{7}{subsubsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.5}UI Features}{8}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}Real-Time Data Visualization}{8}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.2}Alert Status Indication}{8}{subsubsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {3.5.3}User Authentication System}{9}{subsubsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.6}Data Analytics}{10}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Real-Time Trend Visualization}{10}{subsection.3.7}%
+\contentsline {section}{\numberline {4}Deployment Guide}{11}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Hardware Configuration}{11}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Cloud Deployment}{11}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Frontend Deployment}{12}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Verification Process}{12}{subsection.4.4}%
+\contentsline {section}{\numberline {5}User Manual}{12}{section.5}%
+\contentsline {subsection}{\numberline {5.1}System Startup}{12}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Accessing the Dashboard}{12}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Interface Features}{12}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Alert Handling}{13}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Troubleshooting}{13}{subsection.5.5}%
